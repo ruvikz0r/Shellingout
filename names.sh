@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 fname="ruvik"
 lname="milkis" 
 uname="ruvikz0r"

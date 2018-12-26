@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 echo "{home: $HOME}"
 echo "{user: $USER}"
 echo "{display: $DISPLAY}"

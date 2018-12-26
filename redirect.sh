@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 ################################
 # Created by Ruvik M
@@ -7,10 +7,4 @@
 # Description: Showing redirection
 #                   Enjoy
 ##############################
-
-ls -a /root/ruvik
-echo "Welcome ruvik"
-
-2> errors.txt
-1> output.txt
 
